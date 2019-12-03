@@ -6,6 +6,14 @@ Zoubir, A. M., Koivunen, V., Ollila, E., and Muma, M. Robust Statistics for Sign
 
 [1] https://github.com/RobustSP/toolbox
 
+Link to documentation of Python toolbox:
+
+https://robustsp.readthedocs.io/en/latest/
+
+In case of bugs, or questions about the documentation please raise an issue on 
+
+https://github.com/Mufabo/robustsp
+
 ## Dependencies
 
 * Python 3
